@@ -1,3 +1,9 @@
+# Rick And Morty Page
+
+This project use the API https://rickandmortyapi.com/ for obtain resource of the characters, chapters and places divided in 3 pages.
+
+The project allow navigate through the data with pagination, filters like names, states and places of the resources.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
