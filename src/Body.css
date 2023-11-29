@@ -1,0 +1,26 @@
+li {
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-right: 16px;
+    font-size: 20px;
+    line-height: 1.5;
+    color: #586069;
+    border-bottom: 2px solid transparent;
+    text-decoration: none;
+  }
+  
+li:hover {
+    cursor: pointer;
+    color: #24292e;
+    border-bottom-color: #d1d5da;
+    transition: 0.2s ease;
+    text-decoration: none;
+  }
+  
+.active, .active:hover {
+    color: #b3fff6;
+    border-bottom-color: #12ffe3;
+    text-decoration: none;
+}

@@ -1,0 +1,8 @@
+.card-location{
+    width: 16%;
+    margin: 5px;
+
+}
+.card-location>h5{
+    height: 30%;
+}

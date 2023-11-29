@@ -1,0 +1,16 @@
+.navigator{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+  }
+  .navigator>button{
+    width: 16%;
+    margin-bottom: 20px;
+  }
+  #next, #before{
+    min-width: 200px;
+    min-height: 40px;
+  }
